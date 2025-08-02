@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Cafe</string>
+    <string name="et_username">Username</string>
+    <string name="et_email">Email</string>
+    <string name="et_password">Password</string>
+    <string name="btn_sign_in">Sign In</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="tw_welcome">Welcome!</string>
+
+    <string name="tw_greetings">Hello, %s!\nWhat is your order?</string>
+    <string name="rb_tea">Tea</string>
+    <string name="rb_coffee">Coffee</string>
+    <string name="tw_additives">What to add to your %s?</string>
+    <string name="cb_sugar_additive">Sugar</string>
+    <string name="cb_milk_additive">Milk</string>
+    <string name="cb_lemon_additive">Lemon</string>
+    <string name="tw_drink_type">Select drink type:</string>
+    <string name="btn_make_order">Make order</string>
+
+    <string name="tw_order_received">%s, your order is received.</string>
+    <string name="tw_gratitude">Thank you!</string>
+    <string name="tw_stars">**************************************************</string>
+    <string name="tw_receipt">RECEIPT</string>
+    <string name="tw_drink">Drink:</string>
+    <string name="tw_selected_drink_type">Drink type:</string>
+    <string name="tw_selected_additives">Additives:</string>
+
+    <string name="error_fields_empty">Fill in all fields, please</string>
+
+    <string name="tw_sign_up"><u>Sign Up</u></string>
+    <string name="tw_sign_in"><u>Sign In</u></string>
+    <string name="tw_no_account">Don\'t have an account?</string>
+    <string name="tw_have_account">Already have an account?</string>
+
+    <string name="tw_agreement">By signing up, you agree to the <u>Terms of use</u> and <u>Privacy Policy</u></string>
+
+    <string name="tw_continue_with_google">Continue with Google</string>
+    <string name="tw_continue_with_facebook">Continue with Facebook</string>
+
+    <string name="tw_or">OR</string>
+
+    <string name="tw_welcome_to_app">Welcome to Cafe App</string>
+
+    <array name="types_of_tea">
+        <item>Black</item>
+        <item>Green</item>
+    </array>
+
+    <array name="types_of_coffee">
+        <item>Latte</item>
+        <item>Americano</item>
+        <item>Espresso</item>
+        <item>Cappuccino</item>
+    </array>
+
+</resources>
